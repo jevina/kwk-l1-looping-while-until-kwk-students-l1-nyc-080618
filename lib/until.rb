@@ -6,4 +6,4 @@ until levitation_force == 10
 end
 end
 
-using_while
+using_until
